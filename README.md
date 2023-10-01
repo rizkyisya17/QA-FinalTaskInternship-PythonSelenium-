@@ -9,11 +9,11 @@ Automation testing using Python Selenium
 
 ## Video run pytest
 
-### Tes Login Page video
+1. Tes Login Page video
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/sk3C3K4VQ5w/0.jpg)](https://www.youtube.com/watch?v=sk3C3K4VQ5 "tes login page")
 
-### Tes Login Page Negative video
+2. Tes Login Page Negative video
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/Qq1luwH0DCk/0.jpg)](https://www.youtube.com/watch?v=Qq1luwH0DCk "tes login page negative")
 
-### Tes Persediaan Barang video
+3.  Tes Persediaan Barang video
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/DmWV8YwT_Yg/0.jpg)](https://www.youtube.com/watch?v=DmWV8YwT_Yg "tes persediaan barang")
