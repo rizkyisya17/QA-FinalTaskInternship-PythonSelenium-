@@ -10,7 +10,7 @@ Automation testing using Python Selenium
 ## Video run pytest
 
 Tes Login Page video
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/sk3C3K4VQ5w/0.jpg)](https://www.youtube.com/watch?v=sk3C3K4VQ5 "tes login page")
+<img align="left" [![IMAGE ALT TEXT](http://img.youtube.com/vi/sk3C3K4VQ5w/0.jpg)](https://www.youtube.com/watch?v=sk3C3K4VQ5 "tes login page")>
 
 Tes Login Page Negative video
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/Qq1luwH0DCk/0.jpg)](https://www.youtube.com/watch?v=Qq1luwH0DCk "tes login page negative")
